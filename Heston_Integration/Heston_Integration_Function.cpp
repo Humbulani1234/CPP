@@ -5,12 +5,13 @@
 
 // Custom header files - Characteristic function file
 
+//#include "Heston_Integration_Function.hpp"
 //#include "C:\Users\support\Desktop\Sublime_text files\Cui_Rai_Heston_Characteristic_Func\Cui_Rai_Heston_Characteristic_func.hpp"
-#include "C:\Users\user\Desktop\Sublime_text files\Cui_Rai_Heston_Characteristic_Func\Cui_Rai_Heston_Characteristic_func.cpp"
+#include "Cui_Rai_Heston_Characteristic_func.hpp"
 
 // Custome header file - Function declaration/signature folder inclusion
 
-#include "C:\Users\user\Desktop\Sublime_text files\Heston_Integration\Heston_Integration_Function.hpp"
+#include "Heston_Integration_Function.hpp"
 
 // Function body/source code
 

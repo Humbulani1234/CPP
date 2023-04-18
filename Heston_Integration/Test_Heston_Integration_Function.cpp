@@ -5,8 +5,8 @@
 
 // Custom header files - Heston_Integration_Function
 
-//#include "C:\Users\support\Desktop\Sublime_text files\Heston_Integration\Heston_Integration_Function.hpp"
-#include "C:\Users\user\Desktop\Sublime_text files\Heston_Integration\Heston_Integration_Function.cpp"
+#include "Heston_Integration_Function.hpp"
+#include "Cui_Rai_Heston_Characteristic_func.hpp"
 
 // Main function
 

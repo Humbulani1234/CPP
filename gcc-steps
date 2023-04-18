@@ -1,0 +1,17 @@
+1. Preprocessing:
+
+gcc -E main.c -o main.i // -E option to stop after preprocessing step
+with extension .i
+
+2. Compiler:
+
+gcc -S main.i -o main.s // -S to stop after compiling, extension .s
+
+3. Assembling
+
+gcc -c main.s -o main.o // Produce object code, exteeension .o
+-c option stops before linking
+
+4. Linking:
+
+gcc main.o -o main //Produces final binary after linking
